@@ -1,0 +1,7 @@
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\obj\Debug\лабраб5вар.csproj.AssemblyReference.cache
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\obj\Debug\лабраб5вар.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\bin\Debug\лабраб5вар.exe.config
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\bin\Debug\лабраб5вар.exe
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\bin\Debug\лабраб5вар.pdb
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\obj\Debug\лабраб5вар.exe
+C:\Users\prog\source\repos\лабраб5вар\лабраб5вар\obj\Debug\лабраб5вар.pdb
